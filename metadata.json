@@ -1,0 +1,8 @@
+
+{
+  "name": "dharmnumerology",
+  "description": "Professional student management system for dharmnumerology. Manage masterclasses, enrollments, fees, and class recordings for Numerology, Laal Kitab, and Vastu.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
